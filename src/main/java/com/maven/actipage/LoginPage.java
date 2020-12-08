@@ -1,5 +1,7 @@
 package com.maven.actipage;
 
-public class LoginPage {
+import com.maven.actibase.Driver;
+
+public class LoginPage extends Driver {
 
 }

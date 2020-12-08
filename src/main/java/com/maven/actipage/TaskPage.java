@@ -1,5 +1,7 @@
 package com.maven.actipage;
 
-public class TaskPage {
+import com.maven.actibase.Driver;
+
+public class TaskPage extends Driver{
 
 }

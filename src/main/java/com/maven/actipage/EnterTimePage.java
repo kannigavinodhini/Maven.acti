@@ -1,5 +1,7 @@
 package com.maven.actipage;
 
-public class EnterTimePage {
+import com.maven.actibase.Driver;
+
+public class EnterTimePage extends Driver {
 
 }

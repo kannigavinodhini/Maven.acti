@@ -1,5 +1,7 @@
 package com.maven.actipage;
 
-public class ReportPage {
+import com.maven.actibase.Driver;
+
+public class ReportPage extends Driver {
 
 }
